@@ -15,7 +15,7 @@ public class Test
 	public static void main(String[] args) throws NumberFormatException, IOException
 	{
 		String file = "data/dict1M.csv";
-		
+
 		// --- Create the dictionary objects ---//
 		System.out.println();
 		System.out.println(" . . . Loading NaivePrefixDictionary");
